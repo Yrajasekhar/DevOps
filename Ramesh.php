@@ -1,1 +1,3 @@
-This is for Ramesh
+<?php
+echo "This is for Ramesh";
+?>
